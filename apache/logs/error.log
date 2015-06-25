@@ -25,3 +25,13 @@ cygwin warning:
   CYGWIN environment variable option "nodosfilewarning" turns off this warning.
   Consult the user's guide for more details about POSIX paths:
     http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+[Thu Jun 25 14:31:24.981120 2015] [ssl:warn] [pid 8356:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 25 14:31:25.095501 2015] [core:warn] [pid 8356:tid 384] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 25 14:31:25.270498 2015] [ssl:warn] [pid 8356:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 25 14:31:25.354569 2015] [mpm_winnt:notice] [pid 8356:tid 384] AH00455: Apache/2.4.12 (Win32) OpenSSL/1.0.1l PHP/5.6.8 configured -- resuming normal operations
+[Thu Jun 25 14:31:25.355547 2015] [mpm_winnt:notice] [pid 8356:tid 384] AH00456: Apache Lounge VC11 Server built: Jan 28 2015 16:48:40
+[Thu Jun 25 14:31:25.355547 2015] [core:notice] [pid 8356:tid 384] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jun 25 14:31:25.359457 2015] [mpm_winnt:notice] [pid 8356:tid 384] AH00418: Parent: Created child process 7672
+[Thu Jun 25 14:31:26.100488 2015] [ssl:warn] [pid 7672:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 25 14:31:26.425056 2015] [ssl:warn] [pid 7672:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 25 14:31:26.498377 2015] [mpm_winnt:notice] [pid 7672:tid 372] AH00354: Child: Starting 150 worker threads.

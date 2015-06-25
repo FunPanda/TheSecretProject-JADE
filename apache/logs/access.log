@@ -56,3 +56,6 @@
 ::1 - - [25/Jun/2015:14:00:50 -0500] "GET /phpmyadmin/ HTTP/1.1" 200 5663 "http://localhost/xampp/navi.php" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36"
 ::1 - - [25/Jun/2015:14:00:55 -0500] "GET /xampp/mailform.php HTTP/1.1" 200 2894 "http://localhost/xampp/navi.php" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36"
 ::1 - - [25/Jun/2015:14:01:07 -0500] "GET /xampp/manuals.php HTTP/1.1" 200 1460 "http://localhost/xampp/navi.php" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36"
+::1 - - [25/Jun/2015:14:31:56 -0500] "GET / HTTP/1.1" 200 202 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36"
+192.168.1.113 - - [25/Jun/2015:14:32:19 -0500] "GET / HTTP/1.1" 200 202 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36"
+192.168.1.113 - - [25/Jun/2015:14:32:20 -0500] "GET /favicon.ico HTTP/1.1" 404 1185 "http://192.168.1.105/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36"
