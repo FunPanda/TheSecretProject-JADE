@@ -44,9 +44,22 @@ body {
 	margin-left: 2%;
 	margin-right: 2%;
 	margin-bottom: 2px;
-	padding: 0.25%;
+	padding: 0.5%;
 	width: 95%;
 	height: auto;
+	text-align: center;
+	font-size: 12;
+}
+
+#infosec {
+	margin-left: 6%;
+	margin-top: 2%;
+	background: #5CEEA8;
+	height: auto;
+	width: 92%;
+	position: relative;
+	color: #FFF;
+	padding-left: 2px;
 }
 
 
