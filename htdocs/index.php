@@ -1,7 +1,7 @@
 <html>
 <body>
 <head>
-<link rel="stylesheet" type="text/css" href="profile.css">
+<link rel="stylesheet" type="text/css" href="/styles/profile.css">
 </head>
 	<div id="side">
 		<ul>	
