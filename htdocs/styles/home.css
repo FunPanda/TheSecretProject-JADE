@@ -10,7 +10,7 @@ body {
 	height: 100%;
 	text-align: center;
 	float: right;
-	position: absolute;
+	position: fixed;
 	background: #00EA79;
 	color: #FFF;
 }
@@ -30,6 +30,7 @@ body {
 #postsec {
 	margin-left: 6%;
 	margin-top: 2%;
+	margin-bottom: 2%;
 	background: #5CEEA8;
 	padding: 1%;
 	width: 52%;
@@ -54,10 +55,41 @@ body {
 	margin-left: 4%;
 	margin-top: 0;
 	background: #5CEEA8;
-	height: auto;
+	height: 10%;
 	width: 96%;
 	position: relative;
 	color: #FFF;
+}
+
+#infosec h2 {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	margin-left: 10px;
+}
+	
+#infosec p {
+	margin-top: 1px;
+	padding-top: 1px;
+	margin-left: 10px;
+	padding-bottom: 5px;
+}
+
+#photosec {
+	margin-left: 62%;
+	margin-bottom: 2%;
+	top: 14%;
+	width: 36%;
+	height: auto;
+	background: #5CEEA8;
+	position: absolute;
+	padding-top: 1%;
+}
+
+#photosec img {
+	width: 92%;
+	position: relative;
+	margin-left: 4%;
+	margin-bottom: 4%;
 }
 
 
