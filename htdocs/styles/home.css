@@ -1,0 +1,53 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: "Segoe UI Light", "Arial";	
+	background: #009F53;
+}
+
+#side {
+	width: 4%;
+	height: 100%;
+	padding: 2px;
+	text-align: center;
+	float: right;
+	position: fixed;
+	background: #00EA79;
+	color: #FFF;
+}
+
+#side ul {
+	margin-bottom: 8%;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+}
+
+#side li {
+
+}
+
+#postsec {
+	margin-left: 6%;
+	margin-top: 2%;
+	background: #5CEEA8;
+	padding: 1%;
+	width: 52%;
+	height: auto;
+	position: absolute;
+}
+
+.post {
+	position: relative;
+	background: #FFF;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-bottom: 2px;
+	padding: 0.25%;
+	width: 95%;
+	height: auto;
+}
+
+
+	
