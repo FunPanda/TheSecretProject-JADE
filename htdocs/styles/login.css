@@ -1,0 +1,43 @@
+body {
+	background: url(http://www.spontaneousfantasia.com/wp-content/gallery/fractal-jade-marbles/jade-marble-25.jpg);
+	margin: 0px;
+	padding: 0px;
+	font-family: "Segoe UI Light", "Arial";
+}
+
+#loginbox {
+	background: #00EA79;
+	position: absolute;
+	width: 25%;
+	height: 25%;
+	padding: 2.5% 2.5% 2.5% 2.5%;
+	text-align: center;
+	top: 25%;
+	color: #FFF;
+}
+
+#registerbox {
+	background: #00EA79;
+	position: relative;
+	width: 25%;
+	height: 25%;
+	padding: 2.5% 2.5% 2.5% 2.5%;
+	text-align: center;
+	top: 25%;
+	color: #FFF;
+	float: right;
+}
+
+input {
+	margin-bottom: 5px;
+	padding: 5px;
+	border: none;
+}
+
+input[type=submit] {
+	border: none;
+	background: #009F53;
+	color: #FFF;
+	font-family: "Segoe UI Light", "Arial";
+	padding: 8px;
+}
