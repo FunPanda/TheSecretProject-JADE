@@ -8,10 +8,9 @@ body {
 #side {
 	width: 4%;
 	height: 100%;
-	padding: 2px;
 	text-align: center;
 	float: right;
-	position: fixed;
+	position: absolute;
 	background: #00EA79;
 	color: #FFF;
 }
@@ -35,7 +34,7 @@ body {
 	padding: 1%;
 	width: 52%;
 	height: auto;
-	position: absolute;
+	position: relative;
 }
 
 .post {
@@ -52,14 +51,13 @@ body {
 }
 
 #infosec {
-	margin-left: 6%;
-	margin-top: 2%;
+	margin-left: 4%;
+	margin-top: 0;
 	background: #5CEEA8;
 	height: auto;
-	width: 92%;
+	width: 96%;
 	position: relative;
 	color: #FFF;
-	padding-left: 2px;
 }
 
 
