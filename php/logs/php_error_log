@@ -1,0 +1,5 @@
+[27-Jun-2015 01:57:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ']' in C:\xampp\htdocs\handlers\login_handler.php on line 3
+[27-Jun-2015 02:16:11 Europe/Berlin] PHP Notice:  Undefined index: REQUEST _METHOD in C:\xampp\htdocs\handlers\login_handler.php on line 14
+[27-Jun-2015 03:20:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in C:\xampp\htdocs\handlers\login_handler.php on line 24
+[27-Jun-2015 03:20:42 Europe/Berlin] PHP Notice:  Use of undefined constant sha512 - assumed 'sha512' in C:\xampp\htdocs\handlers\login_handler.php on line 13
+[27-Jun-2015 03:20:42 Europe/Berlin] PHP Notice:  Use of undefined constant sha512 - assumed 'sha512' in C:\xampp\htdocs\handlers\login_handler.php on line 13

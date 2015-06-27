@@ -2,22 +2,26 @@
 <html>
 <head>
 <title> Login | JADE</title>
-<link rel="stylesheet" type="text/css" href="styles/login.css">
+<link rel="stylesheet" type="text/css" href="styles/login.css">
+
 </head>
+
+<!--INPUT: USRNAME & PASSWORD; Handled by LOGIN_HANDLER-->
 <div id="loginbox">
 <h3>Log in to JADE</h3>
-<form method="POST">
-<input type="text" name="Username" placeholder="username">
+<form action="/handlers/login_handler.php" method="POST">
+<input type="text" required name="usrname" placeholder="username" >
 <br>
-<input type="text" name="Password" placeholder="password">
+<input type="password" required name="passwd" placeholder="password">
 <br>
 <INPUT TYPE="submit" value="Log in">
 </form>
 </div>
 
+<!--Should not use FORM as a link!!!!-->
 <div id="registerbox">
 <h3>Don't have an account?</h3>
-<form>
+<form action="/handlers/registration_handler.php" method"POST">
 <INPUT TYPE="submit" value="Register for JADE">
 </form>
 </div>
