@@ -3,3 +3,16 @@
 [27-Jun-2015 03:20:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in C:\xampp\htdocs\handlers\login_handler.php on line 24
 [27-Jun-2015 03:20:42 Europe/Berlin] PHP Notice:  Use of undefined constant sha512 - assumed 'sha512' in C:\xampp\htdocs\handlers\login_handler.php on line 13
 [27-Jun-2015 03:20:42 Europe/Berlin] PHP Notice:  Use of undefined constant sha512 - assumed 'sha512' in C:\xampp\htdocs\handlers\login_handler.php on line 13
+[27-Jun-2015 13:33:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected '/' in C:\xampp\htdocs\handlers\login_handler.php on line 29
+[27-Jun-2015 13:35:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\handlers\login_handler.php on line 39
+[27-Jun-2015 13:37:04 Europe/Berlin] PHP Fatal error:  Class 'handlers' not found in C:\xampp\htdocs\handlers\login_handler.php on line 29
+[27-Jun-2015 13:38:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\xampp\htdocs\handlers\login_handler.php on line 8
+[27-Jun-2015 13:40:41 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\xampp\htdocs\handlers\login_handler.php on line 8
+[27-Jun-2015 13:42:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in C:\xampp\htdocs\handlers\login_handler.php on line 8
+[27-Jun-2015 13:42:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in C:\xampp\htdocs\handlers\login_handler.php on line 8
+[27-Jun-2015 13:52:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in C:\xampp\htdocs\handlers\user_object.php on line 3
+[27-Jun-2015 13:52:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\handlers\user_object.php on line 33
+[27-Jun-2015 13:53:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in C:\xampp\htdocs\handlers\user_object.php on line 67
+[27-Jun-2015 13:54:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in C:\xampp\htdocs\handlers\user_object.php on line 67
+[28-Jun-2015 19:43:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';', expecting ']' in C:\xampp\htdocs\handlers\registration_handler.php on line 6
+[28-Jun-2015 19:43:25 Europe/Berlin] PHP Fatal error:  Class 'User' not found in C:\xampp\htdocs\handlers\registration_handler.php on line 3
