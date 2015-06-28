@@ -6,7 +6,7 @@
 </head>
 <body>
 <!--INPUT: USRNAME & PASSWORD; Handled by LOGIN_HANDLER-->
-<div id="loginbox">
+<div id="registrationbox">
 <h3>Register for JADE</h3>
 <form action="/handlers/registration_handler.php" method="POST">
 <input type="text" required name="usrname" placeholder="username" >

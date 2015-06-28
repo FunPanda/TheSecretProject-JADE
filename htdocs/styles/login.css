@@ -1,5 +1,5 @@
 body {
-	background: url(http://www.spontaneousfantasia.com/wp-content/gallery/fractal-jade-marbles/jade-marble-25.jpg);
+	background: #009F53;
 	margin: 0px;
 	padding: 0px;
 	font-family: "Segoe UI Light", "Arial";
@@ -26,6 +26,17 @@ body {
 	top: 25%;
 	color: #FFF;
 	float: right;
+}
+
+#registrationbox {
+	background: #00EA79;
+	position: absolute;
+	width: 25%;
+	height: 45%;
+	padding: 2.5% 2.5% 2.5% 2.5%;
+	text-align: center;
+	top: 25%;
+	color: #FFF;
 }
 
 input {

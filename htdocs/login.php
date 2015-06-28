@@ -21,7 +21,7 @@
 <!--Should not use FORM as a link!!!!-->
 <div id="registerbox">
 <h3>Don't have an account?</h3>
-<form action="registration.php" method"POST">
+<form action="register.php" method"POST">
 <INPUT TYPE="submit" value="Register for JADE">
 </form>
 </div>
